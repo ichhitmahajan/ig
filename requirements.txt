@@ -8,7 +8,7 @@ requests>=2.31.0
 
 # Environment and configuration
 python-dotenv>=1.0.0
-pydantic>=2.5.0
+pydantic>=2.13.4
 pydantic-settings>=2.1.0
 
 # Async support
